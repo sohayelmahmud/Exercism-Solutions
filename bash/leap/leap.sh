@@ -1,24 +1,37 @@
 #!/usr/bin/env bash
 
-# The following comments should help you get started:
-# - Bash is flexible. You may use functions or write a "raw" script.
-#
-# - Complex code can be made easier to read by breaking it up
-#   into functions, however this is sometimes overkill in bash.
-#
-# - You can find links about good style and other resources
-#   for Bash in './README.md'. It came with this exercise.
-#
-#   Example:
-#   # other functions here
-#   # ...
-#   # ...
-#
-#   main () {
-#     # your main function code here
-#   }
-#
-#   # call main with all of the positional arguments
-#   main "$@"
-#
-# *** PLEASE REMOVE THESE COMMENTS BEFORE SUBMITTING YOUR SOLUTION ***
+set -o errexit
+set -o nounset
+
+show_usage_and_exit() {
+    echo "Usage: $0 <year>"
+    exit 1
+}
+
+main() {
+
+    if [ $# != 1 ]; then
+        show_usage_and_exit
+    fi
+
+    year=$1
+    if [[ ! "$year" =~ ^[0-9]+$ ]]; then
+        show_usage_and_exit
+    fi
+
+    if [[ $(($year % 400)) == 0 ]]; then
+        echo true; exit 0
+    fi
+
+    if [[ $(($year % 100)) == 0 ]]; then
+        echo false; exit 0
+    fi
+
+    if [[ $(($year % 4)) == 0 ]]; then
+        echo true; exit 0
+    fi
+
+    echo false
+}
+
+main "$@"
