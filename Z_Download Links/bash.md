@@ -16,9 +16,10 @@ exercism download --track=bash --exercise=leap
 exercism download --track=bash --exercise=line-up
 exercism download --track=bash --exercise=pangram
 exercism download --track=bash --exercise=raindrops
-exercism download --track=bash --exercise=rasistor-color
-exercism download --track=bash --exercise=rasistor-color-duo
+exercism download --track=bash --exercise=resistor-color
+exercism download --track=bash --exercise=resistor-color-duo
 exercism download --track=bash --exercise=rna-transcription
+exercism download --track=bash --exercise=scrabble-score
 exercism download --track=bash --exercise=secret-handshake
 exercism download --track=bash --exercise=series
 exercism download --track=bash --exercise=sublist
