@@ -98,4 +98,26 @@
   </ul>
 </details>
 
-## pyhton --- will update later
+### python --- will update later
+
+---
+
+## Usage
+
+These solutions are intended for educational purposes only and to track my progress.
+
+---
+##  Feedback
+
+If you have any feedback or ideas to improve this project, feel free to contact me via
+
+<a href="https://www.linkedin.com/in/sohayelmahmud/">
+  <img align="left" alt="Sohayel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+</a>
+<a href="https://github.com/sohayelmahmud">
+  <img align="left" alt="Sohayel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.facebook.com/sohayel.mahmud.7/">
+  <img align="left" alt="Sohayel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
