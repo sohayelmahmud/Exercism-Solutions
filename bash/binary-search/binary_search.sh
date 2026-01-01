@@ -1,24 +1,35 @@
 #!/usr/bin/env bash
 
-# The following comments should help you get started:
-# - Bash is flexible. You may use functions or write a "raw" script.
-#
-# - Complex code can be made easier to read by breaking it up
-#   into functions, however this is sometimes overkill in bash.
-#
-# - You can find links about good style and other resources
-#   for Bash in './README.md'. It came with this exercise.
-#
-#   Example:
-#   # other functions here
-#   # ...
-#   # ...
-#
-#   main () {
-#     # your main function code here
-#   }
-#
-#   # call main with all of the positional arguments
-#   main "$@"
-#
-# *** PLEASE REMOVE THESE COMMENTS BEFORE SUBMITTING YOUR SOLUTION ***
+target=$1
+
+# build array from params
+arr=()
+for ((i=1; i < $#; i++)); do
+  (( index=$i-1 ))
+  arr[$index]=${@:$i+1:1}
+done
+
+# validate arg count
+(( $# < 2 )) && { echo "-1"; exit 0; }
+
+min=0
+(( max=${#arr[@]}-1 ))
+
+while (( "$min" <= "$max" )); do
+  # get midpoint
+  (( mid=($min+$max)/2 ))
+
+  # if hit target
+  (( ${arr[$mid]} == $target )) && {
+    (( offset=$mid-1 ))
+    echo "$mid"
+    exit 0
+  }
+  if (( ${arr[$mid]} > $target )); then
+    (( max=$mid-1 ))
+  else (( min=$mid+1 ))
+  fi
+done
+
+# not found in list
+echo "-1"

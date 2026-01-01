@@ -57,7 +57,7 @@ exercism download --track=bash --exercise=gigasecond
 exercism download --track=bash --exercise=isbn-verifier
 exercism download --track=bash --exercise=kindergarten-garden
 exercism download --track=bash --exercise=luhn ---------------------------------
-exercism download --track=bash --exercise=pascal-triangle
+exercism download --track=bash --exercise=pascals-triangle
 exercism download --track=bash --exercise=pig-latin
 exercism download --track=bash --exercise=roman-numerals
 exercism download --track=bash --exercise=atbash-cipher
