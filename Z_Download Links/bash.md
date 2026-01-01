@@ -50,13 +50,13 @@ exercism download --track=bash --exercise=sum-of-multiples
 exercism download --track=bash --exercise=triangle
 exercism download --track=bash --exercise=twelve-days
 exercism download --track=bash --exercise=word-count
-exercism download --track=bash --exercise=all-your-base ####
+exercism download --track=bash --exercise=all-your-base
 exercism download --track=bash --exercise=binary-search
 exercism download --track=bash --exercise=diamond
 exercism download --track=bash --exercise=gigasecond
 exercism download --track=bash --exercise=isbn-verifier
 exercism download --track=bash --exercise=kindergarten-garden
-exercism download --track=bash --exercise=luhn ---------------------------------
+exercism download --track=bash --exercise=luhn
 exercism download --track=bash --exercise=pascals-triangle
 exercism download --track=bash --exercise=pig-latin
 exercism download --track=bash --exercise=roman-numerals
@@ -66,7 +66,7 @@ exercism download --track=bash --exercise=diffie-hellman
 exercism download --track=bash --exercise=flower-field
 exercism download --track=bash --exercise=food-chain
 exercism download --track=bash --exercise=grep
-exercism download --track=bash --exercise=rationale-numbers
+exercism download --track=bash --exercise=rational-numbers
 exercism download --track=bash --exercise=robot-simulator
 exercism download --track=bash --exercise=run-length-encoding
 exercism download --track=bash --exercise=say
@@ -76,7 +76,7 @@ exercism download --track=bash --exercise=transpose
 exercism download --track=bash --exercise=affine-cipher
 exercism download --track=bash --exercise=bowling
 exercism download --track=bash --exercise=meetup
-exercism download --track=bash --exercise=ninth-prime
+exercism download --track=bash --exercise=nth-prime
 exercism download --track=bash --exercise=ocr-numbers
 exercism download --track=bash --exercise=palindrome-products
 exercism download --track=bash --exercise=pythagorean-triplet
@@ -88,7 +88,7 @@ exercism download --track=bash --exercise=list-ops
 exercism download --track=bash --exercise=markdown
 exercism download --track=bash --exercise=satellite
 exercism download --track=bash --exercise=variable-length-quantity
-exercism download --track=bash --exercise=change #####
+exercism download --track=bash --exercise=change
 exercism download --track=bash --exercise=knapsack
 exercism download --track=bash --exercise=poker
 exercism download --track=bash --exercise=rail-fence-cipher
