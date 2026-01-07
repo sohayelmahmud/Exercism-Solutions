@@ -1,4 +1,4 @@
-## Exercism Bash Problems:
+## Download Bash Exercises:
 
 ```bash
 exercism download --track=bash --exercise=hello-world
@@ -94,12 +94,4 @@ exercism download --track=bash --exercise=poker
 exercism download --track=bash --exercise=rail-fence-cipher
 exercism download --track=bash --exercise=rectangles
 exercism download --track=bash --exercise=two-bucket
-
-
-
-
-
-
-
-
 ```
