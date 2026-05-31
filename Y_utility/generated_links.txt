@@ -1,0 +1,4 @@
+    <li><a href="java/hello-world/src/main/java/Greeter.java">Hello World</a></li>
+    <li><a href="java/lasagna/src/main/java/Lasagna.java">Lasagna</a></li>
+    <li><a href="java/annalyns-infiltration/src/main/java/AnnalynsInfiltration.java">Annalyns Infiltration</a></li>
+    <li><a href="java/bird-watcher/src/main/java/BirdWatcher.java">Bird Watcher</a></li>

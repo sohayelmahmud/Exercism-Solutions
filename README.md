@@ -7,17 +7,18 @@
 
 ## Covered Topics
 
+ <!-- bash list completed -->
 <details>
   <summary>
     <b>Bash</b>
   </summary>
-  <ul>
+  <ol>
     <li><a href="bash/hello-world/hello_world.sh">Hello World</a></li>
     <li><a href="bash/reverse-string/reverse_string.sh">Reverse String</a></li>
     <li><a href="bash/two-fer/two_fer.sh">Two Fer</a></li>
     <li><a href="bash/allergies/allergies.sh">Allergies</a></li>
     <li><a href="bash/armstrong-numbers/armstrong_numbers.sh">Armstrong Numbers</a></li>
-    <li><a href="bash/at-difference-of-squares/at_difference_of_squares.sh">At Difference Of Squares</a></li>
+    <li><a href="bash/difference-of-squares/difference_of_squares.sh">Difference Of Squares</a></li>
     <li><a href="bash/error-handling/error_handling.sh">Error Handling</a></li>
     <li><a href="bash/grains/grains.sh">Grains</a></li>
     <li><a href="bash/hamming/hamming.sh">Hamming</a></li>
@@ -42,7 +43,7 @@
     <li><a href="bash/collatz-conjecture/collatz_conjecture.sh">Collatz Conjecture</a></li>
     <li><a href="bash/darts/darts.sh">Darts</a></li>
     <li><a href="bash/dnd-character/dnd_character.sh">Dnd Character</a></li>
-    <li><a href="bash/eliuds-eggs/eliuds_eggs.sh">Eliuds Eggs</a></li>
+    <li><a href="bash/eliuds-eggs/pop_count.sh">Eliuds Eggs</a></li>
     <li><a href="bash/isogram/isogram.sh">Isogram</a></li>
     <li><a href="bash/matching-brackets/matching_brackets.sh">Matching Brackets</a></li>
     <li><a href="bash/nucleotide-count/nucleotide_count.sh">Nucleotide Count</a></li>
@@ -58,7 +59,7 @@
     <li><a href="bash/space-age/space_age.sh">Space Age</a></li>
     <li><a href="bash/square-root/square_root.sh">Square Root</a></li>
     <li><a href="bash/sum-of-multiples/sum_of_multiples.sh">Sum Of Multiples</a></li>
-    <li><a href="bash/triangle-test/triangle_test.sh">Triangle</a></li>
+    <li><a href="bash/triangle/triangle.sh">Triangle</a></li>
     <li><a href="bash/twelve-days/twelve_days.sh">Twelve Days</a></li>
     <li><a href="bash/word-count/word_count.sh">Word Count</a></li>
     <li><a href="bash/all-your-base/all_your_base.sh">All Your Base</a></li>
@@ -68,7 +69,7 @@
     <li><a href="bash/isbn-verifier/isbn_verifier.sh">Isbn Verifier</a></li>
     <li><a href="bash/kindergarten-garden/kindergarten_garden.sh">Kindergarten Garden</a></li>
     <li><a href="bash/luhn/luhn.sh">Luhn</a></li>
-    <li><a href="bash/pascal-triangle/pascal_triangle.sh">Pascal Triangle</a></li>
+    <li><a href="bash/pascals-triangle/pascals_triangle.sh">Pascals Triangle</a></li>
     <li><a href="bash/pig-latin/pig_latin.sh">Pig Latin</a></li>
     <li><a href="bash/roman-numerals/roman_numerals.sh">Roman Numerals</a></li>
     <li><a href="bash/atbash-cipher/atbash_cipher.sh">Atbash Cipher</a></li>
@@ -77,7 +78,7 @@
     <li><a href="bash/flower-field/flower_field.sh">Flower Field</a></li>
     <li><a href="bash/food-chain/food_chain.sh">Food Chain</a></li>
     <li><a href="bash/grep/grep.sh">Grep</a></li>
-    <li><a href="bash/rationale-numbers/rationale_numbers.sh">Rationale Numbers</a></li>
+    <li><a href="bash/rational-numbers/rational_numbers.sh">Rational Numbers</a></li>
     <li><a href="bash/robot-simulator/robot_simulator.sh">Robot Simulator</a></li>
     <li><a href="bash/run-length-encoding/run_length_encoding.sh">Run Length Encoding</a></li>
     <li><a href="bash/say/say.sh">Say</a></li>
@@ -87,7 +88,7 @@
     <li><a href="bash/affine-cipher/affine_cipher.sh">Affine Cipher</a></li>
     <li><a href="bash/bowling/bowling.sh">Bowling</a></li>
     <li><a href="bash/meetup/meetup.sh">Meetup</a></li>
-    <li><a href="bash/ninth-prime/ninth_prime.sh">Ninth Prime</a></li>
+    <li><a href="bash/nth-prime/nth_prime.sh">Nth Prime</a></li>
     <li><a href="bash/ocr-numbers/ocr_numbers.sh">Ocr Numbers</a></li>
     <li><a href="bash/palindrome-products/palindrome_products.sh">Palindrome Products</a></li>
     <li><a href="bash/pythagorean-triplet/pythagorean_triplet.sh">Pythagorean Triplet</a></li>
@@ -95,10 +96,46 @@
     <li><a href="bash/wordy/wordy.sh">Wordy</a></li>
     <li><a href="bash/yacht/yacht.sh">Yacht</a></li>
     <li><a href="bash/forth/forth.sh">Forth</a></li>
-  </ul>
+    <li><a href="bash/list-ops/list_ops.sh">List Ops</a></li>
+    <li><a href="bash/markdown/markdown.sh">Markdown</a></li>
+    <li><a href="bash/satellite/satellite.sh">Satellite</a></li>
+    <li><a href="bash/variable-length-quantity/variable_length_quantity.sh">Variable Length Quantity</a></li>
+    <li><a href="bash/change/change.sh">Change</a></li>
+    <li><a href="bash/knapsack/knapsack.sh">Knapsack</a></li>
+    <li><a href="bash/poker/poker.sh">Poker</a></li>
+    <li><a href="bash/rail-fence-cipher/rail_fence_cipher.sh">Rail Fence Cipher</a></li>
+    <li><a href="bash/rectangles/rectangles.sh">Rectangles</a></li>
+    <li><a href="bash/two-bucket/two_bucket.sh">Two Bucket</a></li>
+  </ol>
 </details>
 
-### python --- will update later
+ <!-- python list ongoing -->
+<details>
+  <summary>
+    <b>Python</b>
+  </summary>
+  <ol>
+    <li><a href="python/hello-world/hello_world.py">Hello World</a></li>
+    <li><a href="python/guidos-gorgeous-lasagna/lasagna.py">Guidos Gorgeous Lasagna</a></li>
+    <li><a href="python/ghost-gobble-arcade-game/arcade_game.py">Ghost Gobble Arcade Game</a></li>
+    <li><a href="python/currency-exchange/exchange.py">Currency Exchange</a></li>
+    <li><a href="python/meltdown-mitigation/conditionals.py">Meltdown Mitigation</a></li>
+  </ol>
+</details>
+
+ <!-- java list ongoing -->
+<details>
+  <summary>
+    <b>Java</b>
+  </summary>
+  <ol>
+    <li><a href="java/hello-world/src/main/java/Greeter.java">Hello World</a></li>
+    <li><a href="java/lasagna/src/main/java/Lasagna.java">Lasagna</a></li>
+    <li><a href="java/annalyns-infiltration/src/main/java/AnnalynsInfiltration.java">Annalyns Infiltration</a></li>
+    <li><a href="java/bird-watcher/src/main/java/BirdWatcher.java">Bird Watcher</a></li>
+  </ol>
+</details>
+
 
 ---
 
