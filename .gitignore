@@ -1,6 +1,7 @@
 venv/
 .idea
 .vscode
+Y_utility/generated_links.txt
 
 __pycache__/
 *.pyc
