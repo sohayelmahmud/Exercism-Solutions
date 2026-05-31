@@ -141,8 +141,8 @@
 
 ## Usage
 
-- In the <a href="Z_DownloadLinks">Download Links</a> section, you can find the download links for the problem folders. <br><br>
-- In the <a href="Y_utility">Utility Scripts</a> section, you can find some utility scripts that I have created to help me checking the links, generate list for .md file etc.
+- In the <a href="./Z_DownloadLinks">Download Links</a> section, you can find the download links for the problem folders. <br><br>
+- In the <a href="./Y_utility">Utility Scripts</a> section, you can find some utility scripts that I have created to help me checking the links, generate list for .md file etc.
 
 ---
 ##  Feedback
