@@ -5,7 +5,7 @@
 
 ### This repository is a collection of my solved problems from the **Exercism** platform.
 
-## Covered Topics
+## Covered Languages
 
  <!-- bash list completed -->
 <details>
@@ -141,7 +141,8 @@
 
 ## Usage
 
-These solutions are intended for educational purposes only and to track my progress.
+- In the <a href="Z_DownloadLinks">Download Links</a> section, you can find the download links for the problem folders. <br><br>
+- In the <a href="Y_utility">Utility Scripts</a> section, you can find some utility scripts that I have created to help me checking the links, generate list for .md file etc.
 
 ---
 ##  Feedback
